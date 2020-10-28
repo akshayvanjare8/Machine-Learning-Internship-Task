@@ -5,11 +5,11 @@ Welcome folks, Thank you for applying for this internship and we are super excit
 But before we go ahead, we would like you to go thru a small assessment, which will help us to evaluate you better on technical skills and working styles.
 
 # Task Objective :
- Perform EDA on the given data.
- Build some new features which makes sense for the learning objective.
- Train any classifier (can be any model of your choice XGB,DNNs, etc)
- Implement SHAP on this model to explain the decisions. (Bonus points)
- Submit the task by creating a PR request on this repository.
+Perform EDA on the given data.
+Build some new features which makes sense for the learning objective.
+Train any classifier (can be any model of your choice XGB,DNNs, etc)
+Implement SHAP on this model to explain the decisions. (Bonus points)
+Submit the task by creating a PR request on this repository.
 
 # Instructions :
 Perform all the tasks mentioned above.
